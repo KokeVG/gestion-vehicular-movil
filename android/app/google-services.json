@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446288780709",
+    "project_id": "tesis-5bb6b",
+    "storage_bucket": "tesis-5bb6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446288780709:android:a885516420d8edc365dc4c",
+        "android_client_info": {
+          "package_name": "com.estacionamiento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446288780709-2ej6v985ivrqhqdmknoqhbinfqr22q4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt4zuATBORv_3Em9Fj2rgz8A9lAER-FiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446288780709-2ej6v985ivrqhqdmknoqhbinfqr22q4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
